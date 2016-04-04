@@ -1,7 +1,7 @@
 name: congruency
 favicon: null
-layout_spectrum: 0.18659742292948067
-typography_spectrum: 0.16180427558720112
+layout_spectrum: 0.90328
+typography_spectrum: 0.42878
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.3810501750558615
-  lightness: 0.240439627552405
+    - '#005baa'
+    - '#000000'
+    - '#0000ff'
+    - '#b7b8e0'
+    - '#00ffff'
+  brandStrength: 0.375
+  lightness: 0.25
   saturation: 0.10712047177366912
   rhythmicContrast: 0.38023990113288164
 purpose: []
